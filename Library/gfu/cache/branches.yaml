@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-09-12T14:49:09.790+03:00
+  lastUpdatedAtString: 2020-09-12T14:56:45.585+03:00
   initializedAtString: 2020-09-12T14:39:15.560+03:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/furkanaydar/OurFirstGame.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/furkanaydar/OurFirstGame.git
