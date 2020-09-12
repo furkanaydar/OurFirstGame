@@ -1,0 +1,758 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-09-12T14:47:08.431+03:00
+  initializedAtString: 2020-09-12T14:40:42.564+03:00
+  log:
+  - commitID: 7c4fcd5e9e1e59482f6cdbd3cadb2e7d258e2b51
+    mergeA: 
+    mergeB: 
+    authorName: Furkan Aydar
+    authorEmail: furkanaydar97@gmail.com
+    commitEmail: furkanaydar97@gmail.com
+    commitName: Furkan Aydar
+    summary: assets
+    description: assets
+    timeString: 2020-09-12T14:47:05.000+03:00
+    commitTimeString: 2020-09-12T14:47:05.000+03:00
+    changes:
+    - path: Assets\AstreoMove.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\AstreoMove.cs
+      projectPath: Assets\AstreoMove.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\AstreoMove.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\AstreoMove.cs.meta
+      projectPath: Assets\AstreoMove.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font.meta
+      projectPath: Assets\Font.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-Bold.ttf
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-Bold.ttf
+      projectPath: Assets\Font\SpaceMono-Bold.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-Bold.ttf.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-Bold.ttf.meta
+      projectPath: Assets\Font\SpaceMono-Bold.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-BoldItalic.ttf
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-BoldItalic.ttf
+      projectPath: Assets\Font\SpaceMono-BoldItalic.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-BoldItalic.ttf.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-BoldItalic.ttf.meta
+      projectPath: Assets\Font\SpaceMono-BoldItalic.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-Italic.ttf
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-Italic.ttf
+      projectPath: Assets\Font\SpaceMono-Italic.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-Italic.ttf.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-Italic.ttf.meta
+      projectPath: Assets\Font\SpaceMono-Italic.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-Regular.ttf
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-Regular.ttf
+      projectPath: Assets\Font\SpaceMono-Regular.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\SpaceMono-Regular.ttf.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Font\SpaceMono-Regular.ttf.meta
+      projectPath: Assets\Font\SpaceMono-Regular.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Post-processing Profile.asset
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\New
+        Post-processing Profile.asset
+      projectPath: Assets\New Post-processing Profile.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Post-processing Profile.asset.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\New
+        Post-processing Profile.asset.meta
+      projectPath: Assets\New Post-processing Profile.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlanetRenderer.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\PlanetRenderer.cs
+      projectPath: Assets\PlanetRenderer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlanetRenderer.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\PlanetRenderer.cs.meta
+      projectPath: Assets\PlanetRenderer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RepeatBackground.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\RepeatBackground.cs
+      projectPath: Assets\RepeatBackground.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\RepeatBackground.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\RepeatBackground.cs.meta
+      projectPath: Assets\RepeatBackground.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ScoreManager.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\ScoreManager.cs
+      projectPath: Assets\ScoreManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ScoreManager.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\ScoreManager.cs.meta
+      projectPath: Assets\ScoreManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RepeatBackground.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Scripts\RepeatBackground.cs
+      projectPath: Assets\Scripts\RepeatBackground.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RepeatBackground.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Scripts\RepeatBackground.cs.meta
+      projectPath: Assets\Scripts\RepeatBackground.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds.meta
+      projectPath: Assets\Sprites\Backgrounds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\mekan1pist1.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\mekan1pist1.png
+      projectPath: Assets\Sprites\Backgrounds\mekan1pist1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\mekan1pist1.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\mekan1pist1.png.meta
+      projectPath: Assets\Sprites\Backgrounds\mekan1pist1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\onlyArka (1).png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\onlyArka
+        (1).png
+      projectPath: Assets\Sprites\Backgrounds\onlyArka (1).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\onlyArka (1).png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\onlyArka
+        (1).png.meta
+      projectPath: Assets\Sprites\Backgrounds\onlyArka (1).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\onlyArka (2).png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\onlyArka
+        (2).png
+      projectPath: Assets\Sprites\Backgrounds\onlyArka (2).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\onlyArka (2).png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\onlyArka
+        (2).png.meta
+      projectPath: Assets\Sprites\Backgrounds\onlyArka (2).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\pist 1.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\pist
+        1.png
+      projectPath: Assets\Sprites\Backgrounds\pist 1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Backgrounds\pist 1.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Backgrounds\pist
+        1.png.meta
+      projectPath: Assets\Sprites\Backgrounds\pist 1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Characters.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Characters.meta
+      projectPath: Assets\Sprites\Characters.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Characters\char.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Characters\char.png
+      projectPath: Assets\Sprites\Characters\char.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Characters\char.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Characters\char.png.meta
+      projectPath: Assets\Sprites\Characters\char.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets.meta
+      projectPath: Assets\Sprites\Planets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Baren.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Baren.png
+      projectPath: Assets\Sprites\Planets\Baren.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Baren.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Baren.png.meta
+      projectPath: Assets\Sprites\Planets\Baren.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Desert.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Desert.png
+      projectPath: Assets\Sprites\Planets\Desert.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Desert.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Desert.png.meta
+      projectPath: Assets\Sprites\Planets\Desert.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Forest.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Forest.png
+      projectPath: Assets\Sprites\Planets\Forest.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Forest.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Forest.png.meta
+      projectPath: Assets\Sprites\Planets\Forest.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Ice.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Ice.png
+      projectPath: Assets\Sprites\Planets\Ice.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Ice.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Ice.png.meta
+      projectPath: Assets\Sprites\Planets\Ice.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Lava.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Lava.png
+      projectPath: Assets\Sprites\Planets\Lava.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Lava.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Lava.png.meta
+      projectPath: Assets\Sprites\Planets\Lava.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Lecostt.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Lecostt.png
+      projectPath: Assets\Sprites\Planets\Lecostt.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Lecostt.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Lecostt.png.meta
+      projectPath: Assets\Sprites\Planets\Lecostt.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Lostrado.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Lostrado.png
+      projectPath: Assets\Sprites\Planets\Lostrado.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Lostrado.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Lostrado.png.meta
+      projectPath: Assets\Sprites\Planets\Lostrado.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Ocean.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Ocean.png
+      projectPath: Assets\Sprites\Planets\Ocean.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Ocean.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Ocean.png.meta
+      projectPath: Assets\Sprites\Planets\Ocean.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Sapeco.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Sapeco.png
+      projectPath: Assets\Sprites\Planets\Sapeco.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Sapeco.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Sapeco.png.meta
+      projectPath: Assets\Sprites\Planets\Sapeco.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Terran.png
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Terran.png
+      projectPath: Assets\Sprites\Planets\Terran.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Planets\Terran.png.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\Sprites\Planets\Terran.png.meta
+      projectPath: Assets\Sprites\Planets\Terran.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\followAstreo.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\followAstreo.cs
+      projectPath: Assets\followAstreo.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\followAstreo.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\followAstreo.cs.meta
+      projectPath: Assets\followAstreo.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\infiniteBackground.cs
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\infiniteBackground.cs
+      projectPath: Assets\infiniteBackground.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\infiniteBackground.cs.meta
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\infiniteBackground.cs.meta
+      projectPath: Assets\infiniteBackground.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9abc785eea0ebd27d03f97a6d31ee090eac2ed45
+    mergeA: 
+    mergeB: 
+    authorName: Furkan Aydar
+    authorEmail: furkanaydar97@gmail.com
+    commitEmail: furkanaydar97@gmail.com
+    commitName: Furkan Aydar
+    summary: init
+    description: init
+    timeString: 2020-09-12T14:46:11.000+03:00
+    commitTimeString: 2020-09-12T14:46:11.000+03:00
+    changes:
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 28fa2fb7fb838a1b5ae5cc73380630d73fc62d10
+    mergeA: 
+    mergeB: 
+    authorName: furkanaydar
+    authorEmail: furkanaydar97@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-09-12T13:57:33.000+03:00
+    commitTimeString: 2020-09-12T13:57:33.000+03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Furkan Aydar\Desktop\OurJumpGame\OurFirstGame\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
