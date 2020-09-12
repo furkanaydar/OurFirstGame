@@ -32,7 +32,7 @@ public class PlanetRenderer : MonoBehaviour
         // yeni gezegenin x koordinatı ve büyüklüğünü belirle
         float randX = Random.Range(-3f, 3f);
         float scale = Random.Range(2f, 3f);
-        GameObject generatedPlanet = Instantiate(randomPlanet, new Vector3(randX, transform.position.y + 8f, 0), Quaternion.identity);
+        GameObject generatedPlanet = Instantiate(randomPlanet, new Vector3(randX, transform.position.y + 12f, 0), Quaternion.identity);
         
         generatedPlanet.transform.localScale = new Vector3(scale, scale, 0);
         lastPlanet = generatedPlanet;
@@ -57,6 +57,7 @@ public class PlanetRenderer : MonoBehaviour
     void Start()
     {
         lastGeneratedType = -1;
+        generateNewPlanet();
     }
 
     // Update is called once per frame

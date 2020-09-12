@@ -7,7 +7,7 @@ public class AstreoMove : MonoBehaviour
 
     private Rigidbody2D rb;
     private float jumpForce = 40f;
-    private bool engineIsOn;
+    public bool engineIsOn;
     // Start is called before the first frame update
     void Start()
     {
